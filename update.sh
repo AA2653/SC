@@ -28,7 +28,7 @@ cd libpcap-1.8.1
 make
 make install
 
-git clone https://github.com/AA2653/sc.git.git
+git clone https://github.com/AA2653/sc.git
 cd sc/
 npm i
 npm i -g pino
